@@ -1,6 +1,6 @@
 <?php
 /**
- * PEAR_Installer_Role_Php
+ * PEAR_Installer_Role_Doc
  *
  * PHP versions 4 and 5
  *
@@ -15,7 +15,7 @@
  * @author     Greg Beaver <cellog@php.net>
  * @copyright  1997-2006 The PHP Group
  * @license    http://www.php.net/license/3_0.txt  PHP License 3.0
- * @version    CVS: $Id: Php.php,v 1.7 2006/01/06 04:47:37 cellog Exp $
+ * @version    CVS: $Id: Doc.php,v 1.6 2006/01/06 04:47:37 cellog Exp $
  * @link       http://pear.php.net/package/PEAR
  * @since      File available since Release 1.4.0a1
  */
@@ -30,5 +30,5 @@
  * @link       http://pear.php.net/package/PEAR
  * @since      Class available since Release 1.4.0a1
  */
-class PEAR_Installer_Role_Php extends PEAR_Installer_Role_Common {}
+class PEAR_Installer_Role_Doc extends PEAR_Installer_Role_Common {}
 ?>
